@@ -7,11 +7,11 @@
         "mods": [
           {
             "name": "journeymap-1.16.5.jar",
-            "url": "https://minecraft-inside.ru/download/342334/"
+            "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/xwP89rOv/journeymap-1.16.5-5.8.6.jar"
           },
           {
             "name": "OptiFine_1.16.5.jar",
-            "url": "https://minecraft-inside.ru/download/182721/"
+            "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G7.jar&x=6bd77009dee29cf7ce9c84c6760b0817"
           }
         ]
       },
@@ -31,4 +31,5 @@
         ]
       }
     ]
+
   }

@@ -1,0 +1,34 @@
+{
+    "builds": [
+      {
+        "name": "Forge 1.16.5",
+        "version": "1.0.0",
+        "description": "Сборка модов для Minecraft 1.16.5 на Forge",
+        "mods": [
+          {
+            "name": "journeymap-1.16.5.jar",
+            "url": "https://minecraft-inside.ru/download/342334/"
+          },
+          {
+            "name": "OptiFine_1.16.5.jar",
+            "url": "https://minecraft-inside.ru/download/182721/"
+          }
+        ]
+      },
+      {
+        "name": "Forge 1.18.2",
+        "version": "2.0.0",
+        "description": "Сборка модов для Minecraft 1.18.2 на Forge",
+        "mods": [
+          {
+            "name": "jei-1.18.2-9.0.0.40.jar",
+            "url": "https://example.com/mods/jei-1.18.2-9.0.0.40.jar"
+          },
+          {
+            "name": "journeymap-1.18.2-5.8.0.jar",
+            "url": "https://example.com/mods/journeymap-1.18.2-5.8.0.jar"
+          }
+        ]
+      }
+    ]
+  }

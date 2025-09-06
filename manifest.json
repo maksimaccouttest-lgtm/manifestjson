@@ -14,22 +14,8 @@
             "url": "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G7.jar&x=6bd77009dee29cf7ce9c84c6760b0817"
           }
         ]
-      },
-      {
-        "name": "Forge 1.18.2",
-        "version": "2.0.0",
-        "description": "Сборка модов для Minecraft 1.18.2 на Forge",
-        "mods": [
-          {
-            "name": "jei-1.18.2-9.0.0.40.jar",
-            "url": "https://example.com/mods/jei-1.18.2-9.0.0.40.jar"
-          },
-          {
-            "name": "journeymap-1.18.2-5.8.0.jar",
-            "url": "https://example.com/mods/journeymap-1.18.2-5.8.0.jar"
-          }
-        ]
       }
     ]
 
   }
+
